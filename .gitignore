@@ -1,3 +1,4 @@
-
 .vs
 ShopAPI/node_modules/*
+ShopAPI/obj/*
+/debug.log
